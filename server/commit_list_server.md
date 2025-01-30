@@ -9,7 +9,7 @@
 - [x] feat: create server database
 ## Additional Commits
 - [x] feat: create a migration table
-- [ ] feat: create server application
+- [x] feat: create server application
 - [ ] feat: define association between tables
 - [ ] feat: seed placholder data
 - [ ] feat: adding hashing hooks for password
@@ -32,10 +32,6 @@
 - [ ] install jwt
 - [ ] make sure the email is unique in migration/...-create-user.js
 - [ ] make sure the email is unique in models/user.js
-- [ ] install dotenv
-- [ ] create a .env file
-- [ ] create helpers/jwt.js 
-- [ ] put .env file into .gitignore
 - [ ] add comparePassword function to helpers/bcrypt.js
 - [ ] create the register endpoint (POST)
 - [ ] create the login endpoint (POST)

@@ -1,6 +1,5 @@
 # Commit List
 ## Previous Commits
-## Additional Commits
 
 ## First 4 Commits
 - [x] docs: adding algorithm and stuff
@@ -8,7 +7,8 @@
 - [x] feat: install packages (express.js, pg, sequelize, etc)
 - [x] feat: create an ERD schema in the server
 - [x] feat: create server database
-- [ ] feat: create a migration table
+## Additional Commits
+- [x] feat: create a migration table
 - [ ] feat: create server application
 - [ ] feat: define association between tables
 - [ ] feat: seed placholder data

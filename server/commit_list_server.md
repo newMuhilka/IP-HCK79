@@ -5,13 +5,14 @@
 ## First 4 Commits
 - [x] docs: adding algorithm and stuff
 ### Setup Project
-- [x] install packages (express.js, pg, sequelize, etc)
-- [ ] create tables
-- [ ] create server application
-- [ ] create database
-- [ ] define association between tables
-- [ ] seed placholder data
-- [ ] adding hashing hooks for password
+- [x] feat: install packages (express.js, pg, sequelize, etc)
+- [x] feat: create an ERD schema in the server
+- [ ] feat: create a migration table
+- [ ] feat: create server application
+- [ ] feat: create database
+- [ ] feat: define association between tables
+- [ ] feat: seed placholder data
+- [ ] feat: adding hashing hooks for password
 
 ### Restful API
 - [ ] create the main entity (POST)

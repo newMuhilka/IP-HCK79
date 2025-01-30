@@ -4,13 +4,13 @@
 - [x] npm i pg pg-hstore express sequelize bcrypt jsonwebtoken dotenv => install general
 - [x] npm i -D nodemon sequelize-cli => install bagian development
 - [x] npx sequelize-cli init => initial utk config, models, migrations, dan seeders (npx bukan npm, BACA!)
-- [x] mkdir controllers routes
+- [x] mkdir controllers routes middlewares helpers schema
 - [x] touch app.js .env controllers/controller.js routes/index.js
 - [x] echo node_modules >> .gitignore (masukan node_modules ke dalam .gitignore)
 - [x] echo .env >> .gitignore (masukan .env ke dalam .gitignore)
 
 ### Config
-- [ ] configurasi database pada folder config file config.json
+- [x] configurasi database pada folder config file config.json
   - [x] ubah yang ada di property development
   - [x] username: "postgres"
   - [x] password: "postgres"
@@ -28,7 +28,7 @@
   ```
   (kalo lupa npx sequelize-cli help)
 - [ ] Buat modelnya 
-  - [ ] [link ref](<https://sequelize.org/docs/v6/other-topics/migrations/#creating-the-first-model-and-migration>). (Perhatikan! Nama tabel harus dlm bentuk tunggal-bhs Inggris. Jangan ada spasi setelah koma (,) di --attibutes!)
+  - [x] [link ref](<https://sequelize.org/docs/v6/other-topics/migrations/#creating-the-first-model-and-migration>). (Perhatikan! Nama tabel harus dlm bentuk tunggal-bhs Inggris. Jangan ada spasi setelah koma (,) di --attibutes!)
 
   contoh:
   ```bash

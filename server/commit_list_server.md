@@ -7,9 +7,9 @@
 ### Setup Project
 - [x] feat: install packages (express.js, pg, sequelize, etc)
 - [x] feat: create an ERD schema in the server
+- [x] feat: create server database
 - [ ] feat: create a migration table
 - [ ] feat: create server application
-- [ ] feat: create database
 - [ ] feat: define association between tables
 - [ ] feat: seed placholder data
 - [ ] feat: adding hashing hooks for password

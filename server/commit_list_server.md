@@ -1,17 +1,18 @@
 # Commit List
 ## Previous Commits
 
-## First 4 Commits
 - [x] docs: adding algorithm and stuff
 ### Setup Project Server
 - [x] feat: install packages (express.js, pg, sequelize, etc)
 - [x] feat: create an ERD schema in the server
 - [x] feat: create server database
-## Additional Commits
+## First 4 Commits
 - [x] feat: create a migration table
 - [x] feat: create server application
 - [x] feat: add more migration tables
 - [x] feat: define association between tables
+## Additional Commits
+- [x] feat: add seeder files
 - [ ] feat: seed placeholder data
 - [ ] feat: adding hashing hooks for password
 

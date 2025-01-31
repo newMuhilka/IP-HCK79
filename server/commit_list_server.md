@@ -11,7 +11,7 @@
 - [x] feat: create a migration table
 - [x] feat: create server application
 - [x] feat: add more migration tables
-- [ ] feat: define association between tables
+- [x] feat: define association between tables
 - [ ] feat: seed placeholder data
 - [ ] feat: adding hashing hooks for password
 
@@ -53,9 +53,5 @@
 
 ### Upload File
 - [ ] install multer & cloudinary packages
-- [ ] create middlewares/requestActivity.js
 - [ ] update the imgUrl in the main entity data (PATCH)
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
+

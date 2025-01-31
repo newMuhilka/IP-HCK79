@@ -11,6 +11,12 @@ module.exports = (sequelize, DataTypes) => {
      */
     static associate(models) {
       // define association here
+      this.belongsTo(models.User, {
+        foreignKey: 'UserId'
+      })
+      this.belongsTo(models.Type, {
+        foreignKey: 'CategoryId'
+      })
     }
   }
   Recipe.init({
@@ -18,7 +24,6 @@ module.exports = (sequelize, DataTypes) => {
     strCategory: DataTypes.STRING,
     strMealThumb: DataTypes.STRING,
     strArea: DataTypes.STRING,
-    price: DataTypes.INTEGER
   }, {
     sequelize,
     modelName: 'Recipe',

@@ -3,15 +3,16 @@
 
 ## First 4 Commits
 - [x] docs: adding algorithm and stuff
-### Setup Project
+### Setup Project Server
 - [x] feat: install packages (express.js, pg, sequelize, etc)
 - [x] feat: create an ERD schema in the server
 - [x] feat: create server database
 ## Additional Commits
 - [x] feat: create a migration table
 - [x] feat: create server application
+- [x] feat: add more migration tables
 - [ ] feat: define association between tables
-- [ ] feat: seed placholder data
+- [ ] feat: seed placeholder data
 - [ ] feat: adding hashing hooks for password
 
 ### Restful API

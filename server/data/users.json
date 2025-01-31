@@ -1,0 +1,72 @@
+[
+    {
+        "id": 1,
+        "username": "エドワード",
+        "name": "Edward Copeland",
+        "email": "sandbank@mail.com",
+        "password": "12345",
+        "role": "Admin",
+        "phoneNumber": "7523891",
+        "address": "Pondok Indah"
+    },
+    {
+        "id": 2,
+        "username": "shafferrandolph",
+        "name": "Shaffer Randolph",
+        "email": "shafferrandolph@talkalot.com",
+        "password": "12345",
+        "role": "Staff",
+        "phoneNumber": "+62 (944) 459-2150",
+        "address": "554 Ira Court, Elbert, Pennsylvania, 7137"
+    },
+    {
+        "id": 3,
+        "username": "tuckerbrewer",
+        "name": "Tucker Brewer",
+        "email": "tuckerbrewer@talkalot.com",
+        "password": "12345",
+        "role": "Staff",
+        "phoneNumber": "+62 (823) 566-2005",
+        "address": "424 Riverdale Avenue, Oasis, District Of Columbia, 6214"
+    },
+    {
+        "id": 4,
+        "username": "blanchemedina",
+        "name": "Blanche Medina",
+        "email": "blanchemedina@talkalot.com",
+        "password": "12345",
+        "role": "Staff",
+        "phoneNumber": "+62 (840) 588-2708",
+        "address": "545 Cornelia Street, Needmore, Oklahoma, 611"
+    },
+    {
+        "id": 5,
+        "username": "ashleyclemons",
+        "name": "Ashley Clemons",
+        "email": "ashleyclemons@talkalot.com",
+        "password": "12345",
+        "role": "Staff",
+        "phoneNumber": "+62 (802) 484-3192",
+        "address": "954 Emerald Street, Lindisfarne, Alabama, 982"
+    },
+    {
+        "id": 6,
+        "username": "saundrastrong",
+        "name": "Saundra Strong",
+        "email": "saundrastrong@talkalot.com",
+        "password": "12345",
+        "role": "Staff",
+        "phoneNumber": "+62 (976) 573-2907",
+        "address": "924 Conway Street, Jamestown, North Carolina, 4947"
+    },
+    {
+        "id": 7,
+        "username": "freidahaley",
+        "name": "Freida Haley",
+        "email": "freidahaley@talkalot.com",
+        "password": "12345",
+        "role": "Staff",
+        "phoneNumber": "+62 (817) 434-3986",
+        "address": "877 Bergen Place, Movico, Rhode Island, 6170"
+    }
+]

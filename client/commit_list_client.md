@@ -4,8 +4,8 @@
 ### Setup Client
 - [x] feat: install react with vite & install react-router in the client directory
 - [x] feat: install tailwind
-- [ ] feat: set up a router in App.jsx
-- [ ] feat: temporarily set up the Home.jsx from home.html
+- [x] feat: set up a router in App.jsx
+- [ ] feat: create files for the pages and layouts
 
 
 ## Additional Commits
